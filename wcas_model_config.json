@@ -1,0 +1,1 @@
+{"feature_cols": ["total_clicks", "distinct_sites", "weekly_avg_lateness", "weekly_contribution", "cumulative_score"], "n_weeks": 32, "n_features": 5}
